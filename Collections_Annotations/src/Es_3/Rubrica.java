@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Rubrica {
+	
 	private Map<String, String> rubrica;
 	
 	public Rubrica() {
